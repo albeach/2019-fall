@@ -1,15 +1,15 @@
 ---
-title: "NIEM Face-to-Face 2018: NBAC (29-30 OCT), Combined PMO, NBAC, NTAC (31 OCT), and NTAC (1-2 NOV) Meetings"
+title: "NIEM Face-to-Face 2019: NBAC (21-22 OCT), Combined PMO, NBAC, NTAC (23 OCT), and NTAC (24-25 OCT) Meetings"
 ---
 
-# Welcome to the NIEM Fall 2018 NTAC&ndash;NBAC Face-to-Face Meeting
+# Welcome to the NIEM Fall 2019 NTAC&ndash;NBAC Face-to-Face Meeting
 
 # Schedule
 
-Oct 29&ndash;Nov 2, 2018
-* Oct 29&ndash;30: NBAC
-* Oct 31: Combined NBAC-NTAC
-* Nov 1&ndash;2: NTAC
+Oct 21&ndash;Oct 25, 2019
+* Oct 21&ndash;22: NBAC
+* Oct 23: Combined NBAC-NTAC
+* Oct 24ndash;25: NTAC
 
 # Agenda
 
@@ -51,4 +51,4 @@ See [the full agenda as a Word document](files/full-agenda.docx).
 
 # Resources
 
-- Visit the [Github repository for this page](https://github.com/NIEM/2018-fall), which will hold files linked to from this page.
+- Visit the [Github repository for this page](https://github.com/NIEM/2019-fall), which will hold files linked to from this page.
